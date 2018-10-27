@@ -1,13 +1,14 @@
 html {
-  font-family: Verdana;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 body {
   text-align: center;
   background-color: black;
 }
-h1 {
+h1.mainheader {
+  font-family: 'Montserrat', sans-serif;
   font-weight: normal;
-  font-size: 50px;
+  font-size: 80px;
   color: white;
 }
 
@@ -16,8 +17,8 @@ h1 {
   color: gray;
 }
 
-#download {
-  font-size: 16px;
+.download {
+  font-size: 30px;
   color: Aquamarine;
 }
 
